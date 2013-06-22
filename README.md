@@ -5,6 +5,8 @@ code by ziozzang@gmail.com
 
 MP3Panda Generic Downloader. You can download automatically from MP3Panda the tracks what you bought.
 
+the MP3Panda is cheap mp3 download site. URL is http://www.mp3panda.com
+
 Prerequiste
 ===========
 
@@ -31,6 +33,15 @@ Configuration
 
 edit your ID and Password on file. after then execute script.
 the script will be run infinite wait for next queue like daemon.
+
+This downloader maybe support another mp3 site such like MP3Cake, MP3Eagle or MP3Fiesta.
+Check source file. change RPC address on source file.
+
+```
+# For MP3Cake: http://rpc.mp3cake.com
+# For MP3Eagle: http://rpc.mp3eagle.com
+# For MP3Fiesta: http://rpc.mp3fiesta.com
+```
 
 Execution
 =========
