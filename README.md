@@ -19,6 +19,13 @@ pip install mutagen
 
 mutagen and beautifulsoup4 is required for execute. tested Python 2.7 on debian.
 
+```
+apt-get install axel
+```
+
+
+this script use 'axel' as downloader. so, you must install axel.
+
 Configuration
 =============
 
