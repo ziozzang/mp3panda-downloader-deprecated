@@ -51,3 +51,11 @@ Execution
 ```
 
 this will run like daemon. you just buy album or song at web site.
+
+Function
+========
+
+* download files.
+* Rename with directory formated.
+* update basic information and album art into ID3 Tag in MP3.
+* Keep Downloaded files history with DB.
