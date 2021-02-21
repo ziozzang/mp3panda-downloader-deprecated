@@ -1,3 +1,7 @@
+# Deprecated Project. Archived.
+# Use this-->>> https://github.com/ziozzang/mp3panda-downloader
+* WARNING: mp3panda doesn't support rpc server and any downloaders any more.
+
 mp3panda-downloader
 ===================
 
